@@ -1,0 +1,19 @@
+{
+    "name": "Bulbasaur",
+    "symbol": "BLB",
+    "image": "0.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "Eye7Hohgvdx2EiC5A81Y2dTFc8JhNNZ9RTnaXdVw85Ph",
+                "share": 100
+            }
+        ]
+    }
+}

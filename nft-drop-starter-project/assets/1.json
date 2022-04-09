@@ -1,0 +1,19 @@
+{
+    "name": "Squirtle",
+    "symbol": "SQT",
+    "image": "1.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "1.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "Eye7Hohgvdx2EiC5A81Y2dTFc8JhNNZ9RTnaXdVw85Ph",
+                "share": 100
+            }
+        ]
+    }
+}
