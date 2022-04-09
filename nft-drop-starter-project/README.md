@@ -9,6 +9,7 @@ To get started with this project, clone this repo and follow these commands:
 3. Run `npm run start` to start the project
 4. Start coding!
 
+You need metaplex for this https://github.com/metaplex-foundation/metaplex
 
 ## Uploading NFT's
 After airdropping some SOL to your local wallet
