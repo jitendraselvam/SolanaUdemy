@@ -1,0 +1,18 @@
+[features]
+seeds = false
+# [programs.localnet] used for local
+[programs.devnet]
+#gifportal = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+#one below is obtained by building and getting the new ProgramID
+gifportal = "BdNmQ5EcuZQt3WfR6L6oRje8WhFH9pSjLnhnhUkapdy9"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+# cluster = "localnet"
+cluster = "devnet"
+wallet = "/home/jeet/.config/solana/id.json"
+
+[scripts]
+test = "node tests/gifportal.js"
